@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Goulot de la bouteille -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M11,1h2v5h-2z" />
+    
+    <!-- Bouchon -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M10.5,1h3v1h-3z" />
+    
+    <!-- Corps de la bouteille -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M9,6 L10,8 L10,18 C10,19.1 10.9,20 12,20 C13.1,20 14,19.1 14,18 L14,8 L15,6 Z" />
+    
+    <!-- Reflet -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M11,8 L11,18 C11,18.5 11.5,19 12,19 L12,8 Z" />
+</vector> 
